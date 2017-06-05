@@ -1,9 +1,0 @@
-C:\Users\ah0156703\Documents\Visual Studio 2017\Projects\EulerDay2\EulerDay2\bin\Debug\netcoreapp1.1\EulerDay2.deps.json
-C:\Users\ah0156703\Documents\Visual Studio 2017\Projects\EulerDay2\EulerDay2\bin\Debug\netcoreapp1.1\EulerDay2.runtimeconfig.json
-C:\Users\ah0156703\Documents\Visual Studio 2017\Projects\EulerDay2\EulerDay2\bin\Debug\netcoreapp1.1\EulerDay2.runtimeconfig.dev.json
-C:\Users\ah0156703\Documents\Visual Studio 2017\Projects\EulerDay2\EulerDay2\obj\Debug\netcoreapp1.1\EulerDay2.csprojResolveAssemblyReference.cache
-C:\Users\ah0156703\Documents\Visual Studio 2017\Projects\EulerDay2\EulerDay2\obj\Debug\netcoreapp1.1\EulerDay2.AssemblyInfo.cs
-C:\Users\ah0156703\Documents\Visual Studio 2017\Projects\EulerDay2\EulerDay2\bin\Debug\netcoreapp1.1\EulerDay2.dll
-C:\Users\ah0156703\Documents\Visual Studio 2017\Projects\EulerDay2\EulerDay2\bin\Debug\netcoreapp1.1\EulerDay2.pdb
-C:\Users\ah0156703\Documents\Visual Studio 2017\Projects\EulerDay2\EulerDay2\obj\Debug\netcoreapp1.1\EulerDay2.dll
-C:\Users\ah0156703\Documents\Visual Studio 2017\Projects\EulerDay2\EulerDay2\obj\Debug\netcoreapp1.1\EulerDay2.pdb
